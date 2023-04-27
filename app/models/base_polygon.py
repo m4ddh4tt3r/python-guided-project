@@ -25,5 +25,3 @@ class BasePolygon(ABC):
     @abstractmethod
     def perimeter(self) -> float:
         pass
-
-    
